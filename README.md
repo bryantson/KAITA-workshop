@@ -1,8 +1,6 @@
 # KAITA 워크숍 🚀
 
 카이타 워크숍에서 만든 프로젝트 입니다 😄
-
-
  
 [깃허브 프로젝트 입니다](https://github.com/bryantson/kaita-workshop)
 
@@ -11,8 +9,6 @@
 처음 프로제트를 만들기 위한 레시피
 
 - 아이템 1
-- 아이템 2
-- 아이템 3
 
 ## 코딩 따라 해봅시다
 
@@ -28,6 +24,10 @@
 
 `npm start`
 
+### 스텝 3
+
+`docker build -t kaita-app:1.0`
+
 ### 코딩 스크립트
 
 ```javascript
@@ -41,3 +41,9 @@ const app = express()
 app.use(express.static("public"))
 
 ```
+
+## Contribution 하는 방법
+
+여기를 참고하세요
+
+[Contribution.md](CONTRIBUTION.md)
