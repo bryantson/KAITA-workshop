@@ -1,7 +1,9 @@
-# KAITA 워크숍
+# KAITA 워크숍 🚀
 
-카이타 워크숍에서 만든 프로젝트 입니다
+카이타 워크숍에서 만든 프로젝트 입니다 😄
 
+
+ 
 [깃허브 프로젝트 입니다](https://github.com/bryantson/kaita-workshop)
 
 ![이미지](images/background.jpg)
